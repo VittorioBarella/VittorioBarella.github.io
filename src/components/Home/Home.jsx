@@ -79,11 +79,11 @@ class Home extends Component {
                     </div>
                   </div>
                   <p>
-                    Tenho como objeto, entrar no mercado de trabalho, na área da
-                    tecnologia. Gosto de criar telas, buscar referências e
-                    sempre aprender novas tecnologias. Quando não estou
-                    trabalhando ou estudando você vai me encontrar tocando
-                    violão ou treinando Muay thai.
+                    Tenho como objetivo, ingressar no mercado de trabalho e me
+                    aprimorar cada vez mais na área da tecnologia. Gosto de
+                    criar telas, buscar referências e estar atento as novas
+                    tecnologias. Quando não estou trabalhando ou estudando você
+                    me encontra tocando violão ou treinando Muay thai.
                   </p>
                 </div>
               </div>
