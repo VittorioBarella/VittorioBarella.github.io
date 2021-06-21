@@ -41,7 +41,7 @@ function Sobre() {
               Completando os 2 anos segui para a empresa ADP. Na empresa ADP
               também trabalhei como estagiário de front-end e tive a
               oportunidade de usar as linguagens de React.js e Node.js dando
-              manutenção na aplicação da empresa. Sigo os estudos, tendo me
+              manutenção na aplicação da empresa. Sigo os estudos, tento me
               aprimorar cada vez mais e continuo na busca da efetivação como
               desenvolvedor front-end.
             </p>
