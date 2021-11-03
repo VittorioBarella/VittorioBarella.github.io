@@ -46,19 +46,19 @@ class AddComment extends React.Component {
         <div className='container'>
           <div className='row'>
             <div className='col-lg-8'>
-              <h2 className='mt-3 contact-title'>Deixe seu comentário:</h2>
+              <h2 className='mt-3 contact-title'>Leave your comment:</h2>
               <form>
                 <input
                   type='text'
                   name='name'
-                  placeholder='Nome'
+                  placeholder='Name'
                   onChange={this.handleChange}
                   value={this.state.name}
                 />
                 <textarea
                   type='text'
                   name='comment'
-                  placeholder='Digite seu comentário'
+                  placeholder='Enter Your Comment'
                   onChange={this.handleChange}
                   value={this.state.comment}
                 />
@@ -67,7 +67,7 @@ class AddComment extends React.Component {
                   className='submitBtn'
                   onClick={this.handleComment}
                 >
-                  Postar
+                  Post
                 </button>
               </form>
             </div>

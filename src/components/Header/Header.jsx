@@ -13,17 +13,17 @@ const Header = () => {
           <ul className='navbar-nav '>
             <Link to='/'>
               <li className='nav-item '>
-                <a className=''>Página Inicial</a>
+                <a className=''>Home</a>
               </li>
             </Link>
             <Link to='/sobre'>
               <li className='nav-item'>
-                <a className=''>Sobre</a>
+                <a className=''>About</a>
               </li>
             </Link>
             <Link to='/contato'>
               <li className='nav-item'>
-                <a className=''>Contato</a>
+                <a className=''>Contact</a>
               </li>
             </Link>
           </ul>

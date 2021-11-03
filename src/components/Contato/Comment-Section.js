@@ -18,7 +18,7 @@ const CommentSection = (props) => {
                     className='deleteBtn'
                     onClick={(ev) => removeComment(comm.id)}
                   >
-                    Apagar
+                    Delete
                   </button>
                 </section>
               </div>

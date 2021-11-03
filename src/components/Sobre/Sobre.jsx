@@ -23,33 +23,31 @@ function Sobre() {
             />
           </div>
           <div className='col-md-8 mt-3'>
-            <h4>Sobre</h4>
+            <h4>About</h4>
             <h1>Vittório de Andrade Barella</h1>
             <p>
-              Sou estudante de Análise e Desenvolvimento de Sistemas na
-              Faculdade Unisinos de Porto Alegre, tenho como objetivo de entrar
-              no mercado de trabalho com desenvolvedor front-end.
+              I am a student of Systems Analysis and Development at Unisinos
+              College of Porto Alegre, and my goal is to become a front end
+              specialist.
             </p>
             <p>
-              Comecei a trabalhar no ano de 2015 como estagiário no sindicato
-              dos professores do Rio Grande do Sul, lá fui desenvolvedor
-              front-end e tive a oportunidade de dar manutenção em três sites.
-              Trabalhando com as linguagens de PHP e ASP, vendo também html,css,
-              bootstrap e WordPress.
+              I started working in 2015 as an intern at the union of the
+              teachers from Rio Grande do Sul, I was a front-end developer there
+              and had the opportunity to maintain three sites. Working with PHP
+              and ASP languages, I also see html, css, bootstrap and WordPress.
             </p>
             <p>
-              Completando os 2 anos segui para a empresa ADP. Na empresa ADP
-              também trabalhei como estagiário de front-end e tive a
-              oportunidade de usar as linguagens de React.js e Node.js dando
-              manutenção na aplicação da empresa. Sigo os estudos, tento me
-              aprimorar cada vez mais e continuo na busca da efetivação como
-              desenvolvedor front-end.
+              Completing 2 years I went to the ADP company. At the ADP company I
+              also worked as a front-end intern and had the opportunity to use
+              the React.js and Node.js languages giving maintenance on the
+              company's application. I currently work as a front end developer
+              at CWI company in Porto Alegre, Brazil.
             </p>
           </div>
         </div>
         <div class='header'>
-          <h1>Galeria de Fotos</h1>
-          <p>Um pouco do que gosto de fazer.</p>
+          <h1>Photo gallery</h1>
+          <p>A little bit of what I like to do.</p>
         </div>
 
         <div class='row grid-photos'>

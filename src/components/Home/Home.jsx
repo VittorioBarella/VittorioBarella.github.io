@@ -19,10 +19,10 @@ class Home extends Component {
           <section id='umPoucoSobreMim' className='umPoucoSobreMim'>
             <div className='container'>
               <div className='section-title mt-3 mb-5'>
-                <h2>Um pouco sobre mim</h2>
+                <h2>A little about myself</h2>
                 <p>
-                  Eu sou um desenvolvedor front-end que mora atualmente em
-                  Gravataí, Rio Grande do Sul.
+                  I am a front-end developer currently living in Gravataí, Rio
+                  Grande do Sul.
                 </p>
               </div>
 
@@ -41,21 +41,22 @@ class Home extends Component {
                 >
                   <h3>Front-end Developer.</h3>
                   <p className='fst-italic'>
-                    Em minha última experiência trabalhei com React.js em uma
-                    aplicação feita em pwa.
+                    I'm currently working as a front end developer at CWI
+                    company in an international.
                   </p>
                   <div className='row'>
                     <div class='col-lg-6'>
                       <ul>
                         <li>
-                          <strong>Aniversário:</strong>
-                          <span>26 de Janeiro de 1995</span>
+                          <strong>Birthday:</strong>
+                          <span>January twenty-six, 1995</span>
                         </li>
                         <li>
-                          <strong>Telefone:</strong> <span>51-992458071</span>
+                          <strong>Phone number:</strong>{' '}
+                          <span>55-51-992458071</span>
                         </li>
                         <li>
-                          <strong>Cidade:</strong>
+                          <strong>City:</strong>
                           <span>Gravataí, Rio Grande do Sul</span>
                         </li>
                       </ul>
@@ -63,27 +64,27 @@ class Home extends Component {
                     <div className='col-lg-6'>
                       <ul>
                         <li>
-                          <strong>Idade:</strong> <span>26</span>
+                          <strong>Age:</strong> <span>26</span>
                         </li>
                         <li>
                           <strong>Email:</strong>
                           <span>vittorio.br@hotmail.com</span>
                         </li>
                         <li>
-                          <strong>Cursando:</strong>
+                          <strong>Studying:</strong>
                           <span>
-                            Tecnólogo em Análise e Desenvolvimento de Sistemas
+                            Technologist in Systems Analysis and Development
                           </span>
                         </li>
                       </ul>
                     </div>
                   </div>
                   <p>
-                    Tenho como objetivo, ingressar no mercado de trabalho e me
-                    aprimorar cada vez mais na área da tecnologia. Gosto de
-                    criar telas, buscar referências e estar atento as novas
-                    tecnologias. Quando não estou trabalhando ou estudando você
-                    me encontra tocando violão ou treinando Muay thai.
+                    My goal is to work in the United States, if possible in the
+                    future to move there and become a front end specialist. I
+                    like to create pages, seek references and be aware of new
+                    ones technologies. When I'm not working or studying you will
+                    find me playing guitar or training muay thai.
                   </p>
                 </div>
               </div>
